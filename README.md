@@ -1,5 +1,5 @@
 COMANDOS DE COMO USAR:
-1 - Cole no terminal : https://github.com/Ronnycc368/INSTA-BRUTE.git
+1 - Cole no terminal : git clone https://github.com/Ronnycc368/INSTA-BRUTE.git
 2 - use o comando chmod x+ INSTA-BRUTE para autorizar o script
 3 - entre no diretório INSTA BRUTE ( cd INSTA-BRUTE )
 4 - inicie o INSTA-BRUTE usando o comando bash INSTA-BRUTE dentro do diretório do script
